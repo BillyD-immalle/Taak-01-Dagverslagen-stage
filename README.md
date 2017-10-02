@@ -6,7 +6,7 @@ De bedrijfseconomische taak was de eerste taak waarmee ik begon. Ik vroeg wat ha
 Zodra de [bedrijfseconomische analyse](https://docs.google.com/document/d/19vuYMtyhUIFBZTqd9vfjMMd8KV8eHScPuVBssNZtuVg/edit?usp=sharing) klaar was gingen we middageten. 
 
 We smeerden samen wat boterhamen en ik dronk nog een koffie. We hadden wat gepraat over fotografie want Leen heeft interesse daarin en ik liet haar wat foto's zien die ik reeds had gemaakt want fotografie is mijn hobby. Verder hadden we gepraat over hoe dat je best adverteert via social media en andere dingen, het was gezellig en we lachten af en toe. Na het eten begonnen we terug te werken.
-![alt text](https://drive.google.com/file/d/0B3m6TkzBSNFmZzB3Vm9HYmZOMFk/view "Middageten")
+![alt text](https://lh4.googleusercontent.com/Ul041NAKxQndsiW4i69nrF0r_zsskSd2aUUTHmFqcpHKdgR5gq96IDdMEVS28yy_q36Q5XP1frU8IVY=w2560-h1309-rw "Middageten")
 
 Ik werkte de [analyse](https://docs.google.com/document/d/154g-PllOOOkRbjPZutSpdTxzhOGxmnyvWxPQjcmxUNM/edit?usp=sharing) af en begon dan met een mogelijke case study, namelijk hoe dat Leen gebruik maakt van Angularjs in software die ze had geschreven voor een crèche. Toen ik de opmaak van de case study klaar had was het 15:00 en vertrokken we naar de bushalte en nam ik de bus naar huis.
 
