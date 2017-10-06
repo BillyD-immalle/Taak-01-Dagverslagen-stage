@@ -36,7 +36,7 @@ Tegen de middag was de case study over Angularjs klaar en begonnen we met nog ee
 
 Rustig begonnen we deze morgend met ons werk, ik bewerkte het Bootstrap template verder en zij deed haar ding. 
 
-Tijdens de pauze dacht ik eraan dat ik nog een Photo reportage moest doen voor Frans en daar had ik nog niet genoeg beeld materiaal voor. Ik besloot om van de photo reportage een video reportage te doen dus ik maakte video's in plaats van foto's. Buiten filmde ik haar huis en binnen haar bureau, ik nam ook enkele close-ups van belangrijke dingen op het bureau.
+Tijdens de pauze dacht ik eraan dat ik nog een foto reportage moest doen voor Frans en daar had ik nog niet genoeg beeld materiaal voor. Ik besloot om van de photo reportage een video reportage te doen dus ik maakte video's in plaats van foto's. Buiten filmde ik haar huis en binnen haar bureau, ik nam ook enkele close-ups van belangrijke dingen op het bureau.
 
 Verder werkend aan het Bootstrap template leerde ik vanalles bij over [Font Awesome](http://fontawesome.io/), css classes, Twitter columns en meer.
 
@@ -48,3 +48,7 @@ We besloten om een uur langer te werken dan de andere dagen zodat we vrijdag een
 
 Jammer genoeg is het vandaag de laatste dag op stage, we begonnen zoals elke dag met een koffietje. Ik werkte de site af door nog een menu en een extra sectie te maken, maar dat ging snel want ik wist al hoe ogneveer alles werkte. 
 Na dit documenteerde ik alles in een 2de [case study](https://docs.google.com/document/d/1XERrXhtS9-AiiyRkh-GO26AVXbiiPMGqHQqNVLgeQbk/edit?usp=sharing) op Google Docs.
+
+Na onze botherhammen werkte ik aan de montage voor mijn video reportage taak van Frans en zo ging de tijd snel en vertrokken we om 14:20 nar de bushlate en ging ik naar huis.
+
+
