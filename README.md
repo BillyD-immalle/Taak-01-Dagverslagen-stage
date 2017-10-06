@@ -34,16 +34,17 @@ Tegen de middag was de case study over Angularjs klaar en begonnen we met nog ee
 
 ## Donderdag 5 oktober
 
-
 Rustig begonnen we deze morgend met ons werk, ik bewerkte het Bootstrap template verder en zij deed haar ding. 
 
-Tijdens de pauze dacht ik eraan dat ik nog een Photo reportage moest doen voor Frans en daar had ik nog niet genoeg beeld materiaal voor. Ik besloot om van de photo reportage een video reportage te doen dus ik maakte video's in plaats van foto's. Buiten filmde ik haar huis en binnen haar bureau, ik nam ook wat enkele close-ups want ik vind dat mooi.
+Tijdens de pauze dacht ik eraan dat ik nog een Photo reportage moest doen voor Frans en daar had ik nog niet genoeg beeld materiaal voor. Ik besloot om van de photo reportage een video reportage te doen dus ik maakte video's in plaats van foto's. Buiten filmde ik haar huis en binnen haar bureau, ik nam ook enkele close-ups van belangrijke dingen op het bureau.
 
-Verder werkend aan het Bootstrap template leerde ik vanalles bij over FontAwesome, css classes, Twitter coluns en meer.
+Verder werkend aan het Bootstrap template leerde ik vanalles bij over [Font Awesome](http://fontawesome.io/), css classes, Twitter columns en meer.
 
-Deze middag smeerde we weer botherhammen zoals op maandag en we hadden gepraat over gsm's...
+Deze middag smeerde we weer botherhammen zoals op maandag en hadden we gepraat over gsm's.
 
-We besloten om een uur meer te werken dan de andere dagen zodat we vrijdag een een uurtje vroeger konden stoppen. Tijdens dat extra uurtje had ik de site 90% af, ik moest nog enkele dingen invoegen, maar dat is voor morgen!
+We besloten om een uur langer te werken dan de andere dagen zodat we vrijdag een een uurtje vroeger konden stoppen. Tijdens dat extra uurtje had ik de site 90% af, ik moest nog enkele dingen invoegen, maar dat is voor morgen!
 
+## Vrijdag 6 oktober
 
-
+Jammer genoeg is het vandaag de laatste dag op stage, we begonnen zoals elke dag met een koffietje. Ik werkte de site af door nog een menu en een extra sectie te maken, maar dat ging snel want ik wist al hoe ogneveer alles werkte. 
+Na dit documenteerde ik alles in een 2de [case study](https://docs.google.com/document/d/1XERrXhtS9-AiiyRkh-GO26AVXbiiPMGqHQqNVLgeQbk/edit?usp=sharing) op Google Docs.
