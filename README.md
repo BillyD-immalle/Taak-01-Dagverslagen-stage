@@ -22,7 +22,7 @@ Terug aan het bureau hadden we gepraat over haar idee om haar crèche software u
 
 Deze middag had ik spaghetti mee en warmde ik het op terwijl Leen wat eitjes maakte. Ik filmde wat over de middag want ik had nog beelden nodig voor de fotoreportage voor Frans. We hadden terug een gezellige babbel terwijl we aten. 
 
-Na het middageten werkte ik verder aan mijn case study en ik stelde enkele vragen zodat ik haar programma zeker snapte. En Leen werkte aan haar kassa systeem voor een klant. Tegen 15:15 ronde ik af en Leen haar kassa syteem werkte al want er kwam een kasbon uit. 
+Na het middageten werkte ik verder aan mijn case study en ik stelde enkele vragen zodat ik haar programma zeker snapte. En Leen werkte aan haar kassasysteem voor een klant. Tegen 15:15 ronde ik af en Leen haar kassasyteem werkte al want er kwam een kasbon uit. 
 
 Deze dag was weer snel voorbij en ik had mijn case study al half klaar. We gingen nog zien om een kleine case study te doen over Bootstrap morgen of overmorgen.
 
